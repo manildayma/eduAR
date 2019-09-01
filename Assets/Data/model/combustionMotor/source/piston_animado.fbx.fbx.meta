@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: d8f790d355a5b9b45b5a3d36c0413bdc
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: -8928351471818444634
+    second: combMotor
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: fa4dc10ebd31fbe44b8292121e8db405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textos
+    second: {fileID: 2100000, guid: e48510cd2fb8e6d4ab84d5632f8952d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textos.1
+    second: {fileID: 2100000, guid: fe5ce4ff84130d446b93d2e60237c79d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textos.2
+    second: {fileID: 2100000, guid: 19fdf95d1cac08243b5eda038a036083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textos.3
+    second: {fileID: 2100000, guid: 11388773141b7014fab07de304a3e401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textos.4
+    second: {fileID: 2100000, guid: 2842cce936bd69d429ae98e21ca457ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textos.5
+    second: {fileID: 2100000, guid: d0a931e3eb99bfd4db0a58468ca04d28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textos.6
+    second: {fileID: 2100000, guid: f75d1e0dd7ab9b44693bbdf256d14e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biela
+    second: {fileID: 2100000, guid: 0e2a49d3783aed54e9f51af7ce01e0be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biela.1
+    second: {fileID: 2100000, guid: 0616fe066bc169447b1884b809921ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biela.2
+    second: {fileID: 2100000, guid: 0bcf55199a2b09948b786eabc3609c38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biela.3
+    second: {fileID: 2100000, guid: 0312839ee7d4dac4d82e810db60cf6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chispa
+    second: {fileID: 2100000, guid: 1020ee44cbb6dae4cbb430a9386179a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chispa.1
+    second: {fileID: 2100000, guid: fc71c262f5fe9c141b2f1792327bc37f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chispa.2
+    second: {fileID: 2100000, guid: 9b7caa4a296b9f34aa56d0693f987744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chispa.3
+    second: {fileID: 2100000, guid: 83a64918cfe6b5e4c9354101d02efb73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chispa.4
+    second: {fileID: 2100000, guid: 21405aca7c9337f4d91c616374dd3f87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chispa.5
+    second: {fileID: 2100000, guid: 98f7e020f1e410d49ac3d28fbd31a578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chispa.6
+    second: {fileID: 2100000, guid: 85c30f1f102d86b48a0871cb8e1830bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chispa.7
+    second: {fileID: 2100000, guid: 2e91ca45d4008bd4d9231074e01f30dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: culatas
+    second: {fileID: 2100000, guid: 418237a100432744abb7ea0e39e10206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina
+    second: {fileID: 2100000, guid: 3d735c1324d020145bf6a817be4dc231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina.1
+    second: {fileID: 2100000, guid: dfc761b28a0f4d14abcbf11740be8a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina.2
+    second: {fileID: 2100000, guid: bc661bda58046224a91ca87cb03041fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina.3
+    second: {fileID: 2100000, guid: 5730e894748cc1e47880674e9854769e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina.4
+    second: {fileID: 2100000, guid: 0f1a9d09372ae4e47a27044601f915b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina.5
+    second: {fileID: 2100000, guid: 820fe603947950e4a8f2c9e91742b43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina.6
+    second: {fileID: 2100000, guid: 4d7e7ca7aee3b4742842ae74b58139d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina.7
+    second: {fileID: 2100000, guid: 461cee55ff89c074297a7ba20783b397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gasolina.8
+    second: {fileID: 2100000, guid: 73ab8c93292c34647997f2cfcd929fbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: perfil
+    second: {fileID: 2100000, guid: 6bd5c3a5e89df834b9d10693a1bc006a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piston
+    second: {fileID: 2100000, guid: 2c89eff2a5782514bb3f8f09b956ad17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piston.1
+    second: {fileID: 2100000, guid: 390148c1e8c7d51419c9e9c10f5d1226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piston.2
+    second: {fileID: 2100000, guid: 7ffe8421bf2ccb1429a3e24fc07a4c9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparente
+    second: {fileID: 2100000, guid: ba8a399bdeb53c84fb6a3ea1bded4584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparente.1
+    second: {fileID: 2100000, guid: 13940d6051e4dee449c10075c9a71a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valvulas
+    second: {fileID: 2100000, guid: 0a088a564d5f40a4fb29db9c23628264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valvulas.1
+    second: {fileID: 2100000, guid: 4dd500f4cb8d0e24d9c9abd364b603df, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_grande_C4D
+    second: {fileID: 2800000, guid: c18948a0b084c294c9b219749fd25921, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: combMotor
+      takeName: C4D Animation Take
+      internalID: -8928351471818444634
+      firstFrame: 0
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
