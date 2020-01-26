@@ -1,5 +1,4 @@
-# hackinit-19
-Augmented Reality based learning application.
+# Augmented Reality based learning application.
 
 ## Instruction To Run
 1. Download "hax6.apk"in your smartphome and install application.
