@@ -1,6 +1,6 @@
-# Augmented Reality based learning application.
+# Augmented Reality Based Learning Application
 
-## Instruction To Run
+## Instructions To Run
 1. Download "hax6.apk"in your smartphome and install application.
 2. Open the application and choose any model from menu that you want to see.
 3. Application will open into camera mode. Point your camera towards marker and with buttons on right understand about the model.
